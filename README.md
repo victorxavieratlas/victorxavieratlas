@@ -3,7 +3,7 @@
 ⚡ My name is Victor Xavier and I create solutions in the area of software quality and team management. I like Cypress, Appium, Gherkin, Git, Actions, Docker or similar, among others and I've been working in the software development industry for over 2 years.
 
 
-### - 🔭 I’m currently working on automated testing projects with Cypress in JavaScript and Appium in Python.
+### - 🔭 I’m currently working on automated testing projects with Cypress in JavaScript and Appium.
 ### - 🌱 I’m currently learning more about Appium, AI, Machine Learning and Deep Learning.
 
 
