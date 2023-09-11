@@ -5,8 +5,6 @@
 
 ### - 🔭 I’m currently working on automated testing projects with Cypress...
 
-![image](https://github.com/victorxavieratlas/victorxavieratlas/assets/90327179/425a92bf-145e-4545-85f9-113206003e26)
-![image](https://github.com/victorxavieratlas/victorxavieratlas/assets/90327179/ca527818-d62a-415a-ae8d-501c1faa871f)
 
 
 
