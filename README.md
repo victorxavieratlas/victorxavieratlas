@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-⚡ My name is Victor Xavier and I create solutions in the area of software quality and team management. I like Cypress, Appium, Git, Actions, Docker or similar, among others and I've been working in the software development industry for over 3 years.
+⚡ My name is Victor Xavier and I create solutions in the area of software quality and team management. I like Playwright, Cypress, Appium, Git, Actions, Docker or similar, among others and I've been working in the software development industry for over 8 years.
 
 
-### - 🔭 I’m currently working on automated testing projects with Cypress...
+### - 🔭 I’m currently working on automated testing projects with test automation tools...
 
 
 
